@@ -1,5 +1,8 @@
 ## How to log into a course-specific account on ieng6
 # By Joshua Waters
+
+link: https://jjlenox.github.io/cse15l-lab-reports/Instructions
+
 - 1
 
 First instal visual code studios with this link
