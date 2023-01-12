@@ -24,12 +24,19 @@ It should look like this:
 - 3
 
 Now try some commands like:
+
 cd
+
 cd ~
+
 pwd
+
 ls
+
 and try to access different directories like
+
 /home/linux/ieng6/cs15lwi23/cs15lwi23*
+
 where the star are the personal letters of a student.
 
 some command inputs looks like this
