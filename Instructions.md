@@ -18,6 +18,7 @@ ssh cs15lwi23*@ieng6.ucsd.edu
 where the star is your personal letters for your account,
 say yes to everything,
 then enter your password.
+
 It should look like this:
 ![Image](https://github.com/jjlenox/cse15l-lab-reports/blob/main/Screenshot%202023-01-12%20123844.png)
 ---
