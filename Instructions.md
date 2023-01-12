@@ -40,5 +40,6 @@ and try to access different directories like
 
 where the star are the personal letters of a student.
 
-some command inputs looks like this
+some command inputs looks like this:
+
 ![Image](https://github.com/jjlenox/cse15l-lab-reports/blob/main/Screenshot%202023-01-12%20123936.png)
