@@ -5,7 +5,8 @@
 First instal visual code studios with this link
 [VCS](https://code.visualstudio.com/)
 
-VCS looks like this 
+**VCS looks like this:**
+
 ![Image](https://github.com/jjlenox/cse15l-lab-reports/blob/main/Screenshot%202023-01-12%20123611.png)
 ---
 - 2 
