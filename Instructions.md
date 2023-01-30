@@ -48,4 +48,4 @@ where the star are the personal letters of a student.
 
 The '''cd''' command is the change directory command. It's used by typing cd and then a file or folder in the current directory.
 The '''pwd''' command provides the current directory the terminal is accessed at the moment.
-THe '''ls''' command provides the files or folders that are in the current directory. 
+The '''ls''' command provides the files or folders that are in the current directory. 
