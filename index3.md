@@ -1,3 +1,5 @@
+cite: https://jjlenox.github.io/cse15l-lab-reports/index3
+
 [cs15lwi23ahq@ieng6-202]:skill-demo1-data:264$ less -X written_2/
 
 total 16
@@ -152,7 +154,7 @@ drwxr-s--- 8 cs15lwi23ahq ieng6_cs15lwi23 4096 Feb  9 10:37 OUP/
 
 -F command automatically exits if all files can be displayed. Makes it faster to search multiple small folders since you dont have to exit everytime.
 
-
+source for all command options: https://phoenixnap.com/kb/less-command-in-linux
 
 
 
