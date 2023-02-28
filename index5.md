@@ -2,7 +2,7 @@
 
 open the terminal
 
-"up arrow key" "enter" to input ssh cs15lwi23ahq@ieng6.ucsd.edu
+"up arrow key" "enter" to input ssh cs15lwi23ahq@ieng6.ucsd.edu, the command was very recently used so I went to the history.
 
 ![Image](https://jjlenox.github.io/cse15l-lab-reports/Screenshot%202023-02-27%20at%2010.29.39%20PM.png)
   
@@ -18,6 +18,8 @@ cd lab7
   
 ctrl+c run test command off of week 3 lab and run with ctrl+v <enter>
   
+ctrl+c run test command off of week 3 lab and run with ctrl+v <enter>, but change the file name at the end to ListExamplesTests
+  
 ![Image](https://jjlenox.github.io/cse15l-lab-reports/Screenshot%202023-02-27%20at%2011.10.23%20PM.png) 
  
 4. Edit the code file to fix the failing test
@@ -26,11 +28,11 @@ nano ListExamples.java
   
 "down arrow key" multiple times until the 7th last line, "right arrow key" to index 1, and change index1 to index2
   
-ctrl+x
+ctrl+x, to exit
   
-ctrl+y
+y, to confirm the change
   
-"enter"
+"enter", to save under the same name
   
 ![Image](https://jjlenox.github.io/cse15l-lab-reports/Screenshot%202023-02-27%20at%2011.21.06%20PM.png) 
   
@@ -38,20 +40,20 @@ ctrl+y
   
 5. Run the tests, demonstrating that they now succeed
   
-"up arrow key" 3x "enter"
+"up arrow key" 3x "enter", to run first test command again
   
-"up arrow key" 3x "enter"
+"up arrow key" 3x "enter", to run the second test command again
   
-to compile and run the tests again
+to compile and run the tests again, they are in the command history
   
 ![Image](https://jjlenox.github.io/cse15l-lab-reports/Screenshot%202023-02-27%20at%2011.21.39%20PM.png) 
   
 6. Commit and push the resulting change to your Github account (you can pick any commit message!)
 
-git add L "Tab" to fill in ListExamples.java
+git add L "Tab" to fill in ListExamples.java, to add that file to the changes
   
-git commit -m "A"
+git commit -m "A", commit it with the comment "A" becuase it is quickly to type
   
-git push origin main
+git push origin main, push the changes to github
   
 ![Image](https://jjlenox.github.io/cse15l-lab-reports/Screenshot%202023-02-27%20at%2011.24.24%20PM.png) 
