@@ -5,8 +5,11 @@ cite: https://jjlenox.github.io/cse15l-lab-reports/index3
 command: [cs15lwi23ahq@ieng6-202]:skill-demo1-data:264$ less -X written_2/
 
 Output:
+
 ————————————————-————————————————-
+
 total 16
+
 drwxr-s--- 4 cs15lwi23ahq ieng6_cs15lwi23 4096 Feb  9 10:37 ./
 
 drwxr-s--- 4 cs15lwi23ahq ieng6_cs15lwi23 4096 Feb  9 10:37 ../
@@ -20,7 +23,9 @@ drwxr-s--- 4 cs15lwi23ahq ieng6_cs15lwi23 4096 Feb  9 10:37 travel_guides/
 command: [cs15lwi23ahq@ieng6-202]:skill-demo1-data:265$ less -X written_2/non-fiction/
 
 Output: 
+
 ————————————————-————————————————-
+
 total 12
 
 drwxr-s--- 3 cs15lwi23ahq ieng6_cs15lwi23 4096 Feb  9 10:37 ./
@@ -28,6 +33,7 @@ drwxr-s--- 3 cs15lwi23ahq ieng6_cs15lwi23 4096 Feb  9 10:37 ./
 drwxr-s--- 4 cs15lwi23ahq ieng6_cs15lwi23 4096 Feb  9 10:37 ../
 
 drwxr-s--- 8 cs15lwi23ahq ieng6_cs15lwi23 4096 Feb  9 10:37 OUP/
+
 ————————————————-————————————————-
 
 
@@ -46,6 +52,7 @@ Command: [cs15lwi23ahq@ieng6-202]:skill-demo1-data:269$ cat less_results.txt
 Output:
 
 ————————————————-————————————————-
+
 total 16
 
 drwxr-s--- 4 cs15lwi23ahq ieng6_cs15lwi23 4096 Feb  9 10:37 ./
@@ -63,7 +70,9 @@ Command: [cs15lwi23ahq@ieng6-202]:skill-demo1-data:267$ less -o less_results2.tx
 Command: [cs15lwi23ahq@ieng6-202]:skill-demo1-data:272$ cat less_results2.txt 
 
 Output:
+
 ————————————————-————————————————-
+
 total 12
 
 drwxr-s--- 3 cs15lwi23ahq ieng6_cs15lwi23 4096 Feb  9 10:37 ./
@@ -73,6 +82,7 @@ drwxr-s--- 4 cs15lwi23ahq ieng6_cs15lwi23 4096 Feb  9 10:37 ../
 drwxr-s--- 8 cs15lwi23ahq ieng6_cs15lwi23 4096 Feb  9 10:37 OUP/
 
 [cs15lwi23ahq@ieng6-202]:skill-demo1-data:273$ 
+
 ————————————————-————————————————-
 
 
@@ -88,6 +98,7 @@ Command: [cs15lwi23ahq@ieng6-202]:skill-demo1-data:267$ less -i written_2/non-fi
 search for: /chp
 
 Terminal:
+
 ————————————————-————————————————-
 
 -rwxr-x--- 1 cs15lwi23ahq ieng6_cs15lwi23 41470 Feb  9 10:37 chP.txt* //this is highlighted
@@ -155,7 +166,9 @@ drwxr-s--- 4 cs15lwi23ahq ieng6_cs15lwi23 4096 Feb  9 10:37 travel_guides/
 command: [cs15lwi23ahq@ieng6-202]:skill-demo1-data:287$ less -F written_2/non-fiction/
 
 Terminal:
+
 ————————————————-————————————————-
+
 total 12
 
 drwxr-s--- 3 cs15lwi23ahq ieng6_cs15lwi23 4096 Feb  9 10:37 ./
