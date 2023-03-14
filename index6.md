@@ -27,10 +27,10 @@ javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java // compile the
 
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner. JUnitCore ListExamplesTests // run the tests
 
-git add L "Tab" to fill in ListExamples.java, to add that file to the changes
+git add ListExamples.java // to add that file to the changes
 
-git commit -m "A", commit it with the comment "A" becuase it is quickly to type
+git commit -m "A" // commit it with the comment "A" becuase it is quickly to type
 
-git push origin main, push the changes to github
+git push origin main // to push the changes to github
 
 In the future I want to find a way to use nano with the bash script, and also maybe impliment parts of the grade.sh so it will only open up nano if there is a failure. 
